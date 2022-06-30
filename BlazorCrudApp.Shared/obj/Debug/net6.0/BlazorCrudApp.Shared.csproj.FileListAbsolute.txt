@@ -1,0 +1,12 @@
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\bin\Debug\net6.0\BlazorCrudApp.Shared.deps.json
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\bin\Debug\net6.0\BlazorCrudApp.Shared.dll
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\bin\Debug\net6.0\ref\BlazorCrudApp.Shared.dll
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\bin\Debug\net6.0\BlazorCrudApp.Shared.pdb
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.csproj.AssemblyReference.cache
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.AssemblyInfoInputs.cache
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.AssemblyInfo.cs
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.dll
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\ref\BlazorCrudApp.Shared.dll
+C:\Users\4000815\source\repos\BlazorCrudApp\BlazorCrudApp.Shared\obj\Debug\net6.0\BlazorCrudApp.Shared.pdb
